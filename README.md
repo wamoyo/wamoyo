@@ -12,10 +12,10 @@ Learning to code has made me a better thinker, problem solver, entrepreneur, and
 
 Some quick bullets:
 
-- I try to code mostly in HTML, CSS, and JavaScript with no frameworks.
-- I'm well acquainted with AWS, Node.js, CouchDB, SVG, and I feel pretty good about my design skills lately.
-- I’m looking for help with Neovim (specifically getting acquainted with making syntax files for stylus and pug).
-- I can't wait for WebRTC to actually be ready for production, and accessible to regular web developers like me.
+- 😁 I try to code mostly in HTML, CSS, and JavaScript with no frameworks.
+- 🧰 I'm well acquainted with AWS, Node.js, CouchDB, SVG, and I feel pretty good about my design skills lately.
+- 🤔 I’m looking for help with Neovim (specifically getting acquainted with making syntax files for stylus and pug).
+- 🖥 I can't wait for WebRTC to actually be ready for production, and accessible to regular web developers like me.
 
 I love being a part of this giant developer universe. I'm blow away by what this community can do : )
 
