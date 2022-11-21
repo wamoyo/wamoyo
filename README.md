@@ -13,7 +13,7 @@ Learning to code has made me a better thinker, problem solver, entrepreneur, and
 Some quick bullets:
 
 - 😁 I try to code mostly in HTML, CSS, and JavaScript with no frameworks.
-- 🧰 I'm well acquainted with AWS, Node.js, NoSQL, SVG, and I feel pretty good about my design skills lately.
+- 🧰 I'm well acquainted with AWS, Node.js, NoSQL, SVG, and I feel pretty good about my design skills.
 - 🤔 I’m looking for help with Neovim (specifically getting acquainted with making syntax files for stylus and pug).
 - 🖥 I can't wait for WebRTC to actually be ready for production, and accessible to regular web developers like me.
 
@@ -23,9 +23,10 @@ I love being a part of this giant developer universe. I'm blow away by what this
 
 I actually don't work full time as a developer.
 
-I work primarily with scientists, designing and facilitating workshops and conferences for NASA, the National Science Foundation, National Institutes of Health, and various universities.
+I work primarily with scientists and business leaders, designing and facilitating workshops and conferences for NASA, large enterprises, the National Science Foundation, small businesses, and various universities.
 
-At its core, my job is about helping diverse groups of people think in innovative, interdisciplinary ways to solve wicked hard problems. Things like building synthetic cells, searching for life beyond Earth, developing novel approaches to understanding and treating cancer, improving life science education, and a whole lot more.
+At its core, my job is about helping diverse groups of people think in innovative, interdisciplinary ways to solve wicked hard problems. Things like building synthetic cells, searching for life beyond Earth, innovation tournaments, creating new products, developing novel approaches to understanding and treating cancer, improving life science education, and a whole lot more.
 
 I **LOVE** my job : ) 
 
+🤿 Also, I can dive to 100 feet under water with just one breath of air. I teach freediving and underwater photography on the weekends and it's awesome!
